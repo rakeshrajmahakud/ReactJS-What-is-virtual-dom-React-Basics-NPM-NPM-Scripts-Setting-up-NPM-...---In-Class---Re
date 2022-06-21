@@ -4,11 +4,12 @@ import '../styles/App.css';
 const App = () => {
   return (
     <div id="main">
-      <h1 data-ns-test="project-name">Resource Website</h1>
-      <p data-ns-test="project-description">I want to make my own resouce website where people can access rish website liks of different catagories.</p>
+    <h1 data-ns-test="project-name">Dream Project</h1>
+    <p data-ns-test="project-description">Project Description</p>
     </div>
-  )
+  );
 }
 
 
 export default App;
+
